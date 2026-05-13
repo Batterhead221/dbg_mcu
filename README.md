@@ -3,8 +3,6 @@
 
 # V1.1
 
-![dbg_mcu](/outputs/img/repo_img/hero.png)
-
 -USB-C (USB 2.0) STM32F072CBT6-based programmer/debug adapter board.
 
 - USB-C powered + USB 2.0 device interface
